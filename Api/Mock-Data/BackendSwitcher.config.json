@@ -1,0 +1,17 @@
+{
+  "BackendSwitcherConfig": {
+    "Environments": [
+      {
+        "Name": "STH",
+        "FilePath": "Mock-Data/Environments/sth.json"
+      }
+    ],
+    "Applications": [
+      {
+        "Name": "MijnOrganisatie",
+        "TemplatePath": "Mock-Data/appsettings.template.json",
+        "OriginalPath": "Mock-Data/appsettings.test.json"
+      }
+    ]
+  }
+}

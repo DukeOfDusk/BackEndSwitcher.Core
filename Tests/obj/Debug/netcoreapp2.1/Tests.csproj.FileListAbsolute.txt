@@ -1,0 +1,17 @@
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Tests.deps.json
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.json
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Tests.runtimeconfig.dev.json
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Tests.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Tests.pdb
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Api.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\bin\Debug\netcoreapp2.1\Api.pdb
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.csprojAssemblyReference.cache
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CoreCompileInputs.cache
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfoInputs.cache
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.AssemblyInfo.cs
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.csproj.CopyComplete
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.dll
+E:\Sources\Overig\PGGM.Web.Tools.BackEndSwitcher.Core\Tests\obj\Debug\netcoreapp2.1\Tests.pdb
