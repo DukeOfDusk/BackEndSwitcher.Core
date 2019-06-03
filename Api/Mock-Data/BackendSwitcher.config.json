@@ -11,6 +11,16 @@
         "Name": "MijnOrganisatie",
         "TemplatePath": "Mock-Data/appsettings.template.json",
         "OriginalPath": "Mock-Data/appsettings.test.json"
+      },
+      {
+        "Name": "BPFSchilders",
+        "TemplatePath": "Mock-Data/appsettings.template.json",
+        "OriginalPath": "Mock-Data/appsettings.test.json"
+      },
+      {
+        "Name": "Rabo Bedrijvenpensioen",
+        "TemplatePath": "Mock-Data/appsettings.template.json",
+        "OriginalPath": "Mock-Data/appsettings.test.json"
       }
     ]
   }

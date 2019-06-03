@@ -1,0 +1,20 @@
+{
+  "name": "back-end-switcher.site",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
+  "files": ["dist"],
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "rollup -c",
+    "watch": "rollup -cw"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "rollup": "^1.13.1",
+    "rollup-plugin-typescript2": "^0.21.1",
+    "typescript": "^3.5.1"
+  }
+}
